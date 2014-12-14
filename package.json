@@ -1,0 +1,24 @@
+{
+  "name": "Frederick's Orion Health Presentation",
+  "version": "0.1",
+  "author": {
+    "name": "Frederick Fogerty",
+    "email": "frederick.fogerty@gmail.com",
+    "web": "http://frederickfogerty.com"
+  },
+  "dependencies": {
+    "connect": "^3.3.3",
+    "express": "~2.5.9",
+    "livereload": "^0.3.4",
+    "reveal": "0.0.4",
+    "serve-static": "^1.7.1",
+    "socket.io": "~0.9.13",
+    "underscore": "~1.5.1"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/hakimel/reveal.js/blob/master/LICENSE"
+    }
+  ]
+}
